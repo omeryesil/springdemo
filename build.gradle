@@ -33,6 +33,8 @@ dependencies {
     compile("com.h2database:h2")
     compile("org.flywaydb:flyway-core")
 
+    //only available for dev and test mode
+    //
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 

@@ -15,5 +15,4 @@ public class HomeController {
         return "Das Boot, reporting for duty!";
     }
 
-
 }
