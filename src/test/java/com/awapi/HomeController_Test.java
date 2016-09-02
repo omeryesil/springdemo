@@ -1,3 +1,5 @@
+// JUnit test only ----------------------------------------------
+
 package com.awapi;
 
 import com.awapi.controller.HomeController;

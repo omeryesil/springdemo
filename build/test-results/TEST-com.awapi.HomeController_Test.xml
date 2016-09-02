@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.awapi.HomeController_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-09-01T19:18:05" hostname="MLIW79X7M12" time="0.004">
+<testsuite name="com.awapi.HomeController_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-09-01T19:55:43" hostname="MLIW79X7M12" time="0.006">
   <properties/>
-  <testcase name="home_Test" classname="com.awapi.HomeController_Test" time="0.004"/>
+  <testcase name="home_Test" classname="com.awapi.HomeController_Test" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
